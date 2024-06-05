@@ -1,0 +1,9 @@
+.link-signal-messenger {
+    background: rgb(6, 36, 233);
+    background: linear-gradient(
+      90deg,
+      rgb(88, 192, 237) 0%,
+      rgb(26, 96, 235) 50%,
+      rgb(16, 194, 210) 100%
+    );
+  }
